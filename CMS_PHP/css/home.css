@@ -1,0 +1,50 @@
+
+
+
+body {
+    background-color: navy;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    color: white;
+}
+
+
+.login h1{
+    position: relative;
+    left: 13rem;
+    top: 5.0rem;
+}
+
+.login button{
+    background-color: gold;
+    color: white;
+    border-radius: 7%;
+    size: 100px;
+    position: relative;
+    left: 12rem;
+    top: 10rem;
+    cursor: pointer;
+    padding: 1.0rem;
+    font-size: 1.5rem;
+
+
+}
+
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    position: relative;
+    top: 8.0rem;
+}
+
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+}
