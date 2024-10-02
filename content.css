@@ -1,0 +1,48 @@
+
+
+body{
+    background-color: navy;
+}
+
+.conteudo{
+  background-color: white;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  font-size: 1.0rem;
+}
+
+.Caixa{
+    display: flex; 
+    gap: 10px; 
+    position: relative;
+    top: 2.0rem;
+
+}
+
+.Adicionar button{
+    background-color: gold;
+    position: relative;
+    top: 5.0px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    display: inline-block;
+}
+
+
+.Remover button{
+    background-color: gold;
+    position: relative;
+    top: 5.0px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.Alterar button{
+    background-color: gold;
+    position: relative;
+    top: 5.0px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
