@@ -8,7 +8,7 @@
         $port = 5432;
         $dbname = 'cms_lite';
         $user = 'postgres';
-        $password = 'mateus12';
+        $password = '---';
 
 
         try {
